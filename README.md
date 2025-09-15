@@ -1,2 +1,3 @@
 # ecom_app
-eE commerce application
+E commerce application
+Welcome to Ecommerce application.
